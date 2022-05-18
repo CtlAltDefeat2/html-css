@@ -12,8 +12,9 @@ Colors:
 - lemonchiffon
 - lightseagreen
 
-Font Family: 
-    font-family: Arial, Helvetica, sans-serif;
+```
+Font Family: Arial, Helvetica, sans-serif;
+```
 
 # Ex. 2
 Create a webpage (`index.html`) and a css file (`style.css`) that closely resembles the following:
