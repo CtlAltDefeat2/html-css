@@ -1,0 +1,66 @@
+
+body {
+    background: lightgray;
+    margin: 05px;
+    font-family: 'Arial, Helvetica, sans-serif';
+    max-width: 1000px;
+    font-size: large;
+    line-height: 40px;
+  }
+
+#navbar {
+    background: lightblue;
+    text-decoration: none;
+    padding:20px;
+    margin: 20px 5px 5px 20px; 
+    border-radius: 30px;
+    border: 2px solid black;
+  
+}
+
+#table {
+    background: lightcoral;
+    text-decoration: none;
+    padding:20px;
+    margin: 20px 5px 5px 20px; 
+    border-radius: 30px;
+    border: 2px solid black;
+
+    
+}
+
+#checklist {
+    background: lemonchiffon;
+    text-decoration: none;
+    padding:20px;
+    margin: 20px 5px 5px 20px; 
+    border-radius: 30px;
+    border: 2px solid black;
+}
+
+#copyright {
+    background: lightseagreen;
+    text-decoration: none;
+    padding: 20px;
+    margin: 20px 5px 5px 20px; 
+    border-radius: 30px;
+    border: 2px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+th {
+    border: 1px solid black;
+    background: white;    
+    padding: 10px 5px;
+  }
+
+td, tr {
+    border: 1px solid white;
+    padding: 10px 5px;
+  }
