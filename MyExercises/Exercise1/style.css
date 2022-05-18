@@ -1,0 +1,86 @@
+* {
+  max-width: 960px;
+  margin: auto;
+  padding: 0;
+  font-size: large;
+  line-height: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: lightgray;
+}
+
+#nav {
+  margin-top: 50px;
+  padding: 20px;
+  background-color: lightblue;
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+#footer {
+  padding: 20px;
+  background-color: lightseagreen;
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.part1 {
+  padding: 20px;
+  background-color: lightcoral;
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+.part2 {
+  padding: 20px;
+  background-color: lemonchiffon;
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.checklist {
+  padding: 10px;
+}
+
+.sentence {
+  padding: 10px;
+}
+
+.section2 > div > input {
+  margin: 5px;
+}
+
+.table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.table th {
+  background-color: white;
+  border-color: gray;
+  border-style: solid;
+  border-width: 1px;
+  color: black;
+  overflow: hidden;
+  padding: 10px 5px;
+  -break: normal;
+}
+
+.table td {
+  border-color: white;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+img[alt="check"] {
+  width: 15px;
+  border: 1px solid black;
+}
