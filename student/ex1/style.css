@@ -1,0 +1,79 @@
+* {
+    max-width: 940px;
+    margin: auto;
+    padding: 0;
+    font-size: large;
+    line-height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  body {
+    background-color: lightgray;
+    padding: 12px; 
+  }
+  
+  #nav {
+    margin-top: 50px;
+    padding: 10px;
+    background-color: lightblue;
+    border-radius: 35px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+  }
+  
+  #footer {
+    padding: 20px;
+    background-color: lightseagreen;
+    border-radius: 35px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+  }
+  
+  .section {
+    padding: 20px;
+    background-color: lightcoral;
+    border-radius: 35px;
+    border: 2px solid rgb(7, 7, 7);
+    margin-bottom: 20px;
+  }
+  
+  .section2 {
+    background-color: l;
+    background-color: lemonchiffon;
+    border-radius: 35px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+  }
+  
+  .top {
+    padding: 10px;
+  }
+  
+  .bottom {
+    padding: 10px;
+  }
+  
+  .section2 > div > input {
+    margin: 5px;
+  }
+  
+  .tg {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  .tg td {
+    border-color: rgb(247, 243, 243);
+    border-style: solid;
+    border-width: 2px;
+    overflow: hidden;
+    padding: 10px 5px;
+  }
+  .tg th {
+    background-color: rgb(245, 241, 241);
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    color: black;
+    overflow: hidden;
+    padding: 8px 15px;
+  }
