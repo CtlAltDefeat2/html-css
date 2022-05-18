@@ -23,6 +23,9 @@ Colors:
 - lightgray
 - #0072e1 (blue)
 
+Font Family: 
+    font-family: Arial, Helvetica, sans-serif;
+
 The logo image is located in `images/logo.png`.
 
 # Ex. 3
