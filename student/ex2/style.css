@@ -1,0 +1,52 @@
+img {
+    width: 10%;
+    height: 10%;
+}
+.logo {
+    background-color: white;
+}
+.credentials {
+    background-color: lightgrey;
+    height: 300px;
+}
+.copyright {
+    background-color: grey;
+    padding-bottom: 100%;
+}
+form {
+    padding-top: 50px;
+    margin-left: 35%;
+}
+input[type=submit] {
+    margin-left: 9.5%;
+    background-color: blue;
+    color: white;
+    height: 45px;
+    width: 70px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+#username, #password {
+    height: 40px;
+    width: 160px;
+    border: 2px solid grey;
+    border-radius: 7px;
+}
+#username {
+    margin-left: 5px;
+    margin-bottom: 5px;
+    height: 40px;
+    width: 200px;
+}
+#password {
+    margin-left: 7.8px;
+    width: 200px;
+}
+#copyright {
+    margin-top: 0;
+    padding-top: .5%;
+    margin-left: 45%;
+    font-size: 110%;
+    color: white;
+}
+
