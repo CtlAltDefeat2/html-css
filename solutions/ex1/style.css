@@ -37,12 +37,23 @@ body {
 }
 
 .section2 {
-    padding: 20px;
     background-color: l;
     background-color: lemonchiffon;
     border-radius: 25px;
     border: 1px solid black;
     margin-bottom: 20px;
+}
+
+.top {
+    padding: 10px;
+}
+
+.bottom {
+    padding: 10px;
+}
+
+.section2 > div > input {
+  margin: 5px;
 }
 
 .tg {
