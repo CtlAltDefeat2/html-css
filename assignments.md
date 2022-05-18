@@ -12,6 +12,9 @@ Colors:
 - lemonchiffon
 - lightseagreen
 
+Font Family: 
+    font-family: Arial, Helvetica, sans-serif;
+
 # Ex. 2
 Create a webpage (`index.html`) and a css file (`style.css`) that closely resembles the following:
 
@@ -22,9 +25,6 @@ Colors:
 - gray
 - lightgray
 - #0072e1 (blue)
-
-Font Family: 
-    font-family: Arial, Helvetica, sans-serif;
 
 The logo image is located in `images/logo.png`.
 
