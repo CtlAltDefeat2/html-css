@@ -1,0 +1,62 @@
+body {
+    background-color: LIGHTGRAY;
+  }
+ #navbar {
+    background-color: LIGHTBLUE;
+    BORDER:1PX SOLID BLACK;
+    border-radius: 20PX;
+    width:56.8%;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  main{
+    background-color: lightcoral;
+    width:60%;
+    border-radius: 15PX;
+    color:black;
+    border: solid 1px;
+    height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  TABLE {
+   border: solid 1px;
+   width:60%;
+   border-color:white;
+   color:black;
+   margin-left: auto;
+   margin-right: auto;
+   
+  } 
+  .table{
+    padding: 20px;
+  }
+ table, td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+   border-color: white;
+   text-align: left;
+   height: 1cm;
+    }
+   .itemlist{
+    background-color: LEMONCHIFFON;
+    text-align: left;
+    BORDER:1PX SOLID ;
+   border-radius: 20PX;
+   width:60%;
+   align-items: left;
+   height:fit-content;
+   font-family: Arial, Helvetica, sans-serif;
+  } 
+
+   footer{
+    background-color: lightseagreen;
+    BORDER:1PX SOLOD BLACK;
+    border-radius: 20PX;
+    width:57%;
+    BORDER:1PX SOLID BLACK;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+     }
+   
