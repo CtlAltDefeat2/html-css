@@ -39,6 +39,7 @@ img{
     font-size: 2em;
 }
 button{
+    border: 1px solid #d83519;
     background-color: #d83519;
     border-radius: 10px;
     color:white;
