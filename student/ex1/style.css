@@ -1,0 +1,42 @@
+*{
+    font-family: arial, sans-serif;
+}
+body{
+    background-color: lightgray;
+}
+.nav {
+    border: 1px solid black;
+    border-radius: 15px 30px 30px 15px;
+    background-color: lightblue;
+    padding: 10px 20px;
+}
+.NameBox {
+    border: 1px solid black;
+    border-radius: 15px 30px 30px 15px;
+    background-color:coral;
+    padding: 10px 20px;
+}
+th{
+    background-color: white;
+}
+table,th, td {
+    border:1px solid white; 
+    border-collapse: collapse;
+    width:max-content;
+    margin:auto;
+    padding: 10px 5px;
+
+}
+    
+.checkbox {
+    border: 1px solid black;
+    border-radius: 15px 30px 30px 15px;
+    background-color: lemonchiffon;
+    padding: 10px 20px;
+}
+.Copyright {
+    border: 1px solid black;
+    border-radius: 15px 30px 30px 15px;
+    background-color: lightgreen;
+    padding: 10px 20px;
+}
