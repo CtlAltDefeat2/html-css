@@ -9,20 +9,23 @@
 </head>
 <body>
     
-    <nav class="logo"><img src="/html-css/images/logo.png" alt="pic"</nav>
-
+    <nav class="logo"><img id="img" src="/html-css/images/logo.png" alt="pic"></nav>
+    <form>
     <div class="middle" style="text-align:center">
         <label for="uname"><b>Username</b></label>
-        <input type="text" placeholder="Username" name="uname" required>
-    
+        <input type="text" class="login" placeholder="Username" name="uname">
+        <br>
         <label for="psw"><b>Password</b></label>
-        <input type="password" placeholder="Password" name="psw" required>
-            
+        <input type="password" class="login" placeholder="Password" name="psw">
+        <br>
         <button type="submit" id="Submit">Submit</button>
       </div>
+    </form>
 
       <div id="bottom">
       <footer class="footer"> Copyright 2022 </footer>
       </div>
+
+
 </body>
 </html> 

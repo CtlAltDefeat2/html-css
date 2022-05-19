@@ -4,25 +4,38 @@
     font-family: Arial, Helvetica, sans-serif;
   }
   
-  .logo {
+  #img {
     padding: 10px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-right: auto;
-    /* width: 60px;
-    height: 60px; */
+    margin:0px;
+    width: 100px;
+    height: 60px; 
   }
 
   .middle  {
         padding: 20px;
         margin-bottom: 100px;
-        background-color: rgb(193, 192, 192);
+        background-color: rgb(195, 189, 189);
       }
     
+      #Submit {
+          background-color: blue;
+          color: white;
+          border-radius: 10px;
+          margin-top: 40px;
+      }
 
-    .bottom  {
+    .login {
+       padding-left: 20px; 
+       padding-top: 10px;
+       padding-bottom: 10px;
+       border-radius: 10px;
+    }
+
+    #bottom  {
+        text-align: center;
         padding: 20px;
         margin-bottom: 100px;
-        background-color: rgb(68, 67, 67);
+        background-color: rgb(108, 104, 104);
+        color: white;
       }
     
