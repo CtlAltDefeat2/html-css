@@ -1,1 +1,8 @@
-Your stuff goes in this directory.
+<DOCTYPE html>
+<html>
+<head>
+<title>logo</title>
+</head>
+<body>
+<h1>
+<img src="images/logo.png"
