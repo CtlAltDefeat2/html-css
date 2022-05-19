@@ -9,6 +9,7 @@
   }
   
   .navbar {
+    padding: 10px;
     margin-top: 50px;
     margin-bottom: 50px;
     background-color: rgb(172, 215, 230);
@@ -47,3 +48,5 @@
   .div {
     padding: 10px;
   }
+
+  .customTable {width: 40%;background-color: #eee5e3;border-collapse: collapse;border-width: 1px;border-color: #F8F8F8;border-style: solid;color: #000000;}table.customTable td, table.customTable th {border-width: 1px;border-color: #F8F8F8;border-style: solid;padding: 5px;}table.customTable thead {background-color: #FFFFFF;}
