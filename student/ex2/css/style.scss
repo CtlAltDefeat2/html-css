@@ -1,0 +1,42 @@
+*{
+    margin:auto;
+}
+
+body{
+    background: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.user{
+    padding: 2em 2em 6em 2em;
+    background: lightgray;
+
+  .inputs{
+      border-radius: 8px;
+      border-color: gray;
+      border-width: 1px;
+      margin: 8px;
+      padding: 8px;
+  }
+
+  .submit-cta{
+    position: absolute;
+    background: #0072e1;
+    border-width: 1px;
+    border-color: gray;
+    color: white;
+    padding: 1em;
+    border-radius: 8px;
+    transform:translate(-70%,0%)
+
+}
+
+  
+}
+
+.copyright{
+    background: gray;
+    padding-bottom: 24.3em;
+    color: white;
+}
+

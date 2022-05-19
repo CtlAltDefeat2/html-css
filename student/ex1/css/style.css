@@ -1,0 +1,106 @@
+* {
+  margin: auto;
+}
+
+body {
+  background: lightgray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.toolbar {
+  margin: 2em;
+  padding: 1.5em 1.5em 1.5em 1.5em;
+  background: lightblue;
+  border-radius: 1em;
+  border-style: solid;
+  border-width: .5px;
+}
+
+.toolbar .logo {
+  color: black;
+  text-decoration: none;
+}
+
+.toolbar .contact {
+  color: black;
+  text-decoration: none;
+}
+
+.toolbar .faq {
+  color: black;
+  text-decoration: none;
+}
+
+.toolbar .careers {
+  color: black;
+  text-decoration: none;
+}
+
+.name-table {
+  background: lightcoral;
+  margin: 2em;
+  padding: 1.5em 1.5em 1.5em 1.5em;
+  border-radius: 1em;
+  border-style: solid;
+  border-width: .5px;
+}
+
+.name-table .headings {
+  background: white;
+  border-color: black;
+}
+
+.name-table td {
+  border: 1px solid;
+  padding: 10px 5px;
+  border-color: white;
+  overflow: hidden;
+}
+
+.name-table th {
+  border: 1px solid black;
+  padding: 10px 5px;
+  overflow: hidden;
+}
+
+.name-table table {
+  border-collapse: collapse;
+}
+
+.name-table .age {
+  width: 1em;
+}
+
+.clicker {
+  background: lemonchiffon;
+  margin: 2em;
+  padding: 1.5em 1.5em 1.5em 1em;
+  border-radius: 1em;
+  border-style: solid;
+  border-width: .5px;
+}
+
+.clicker .container {
+  margin: auto;
+}
+
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: -1em;
+  margin-right: -1.5em;
+}
+
+.copyright {
+  background: lightseagreen;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-top: .5em;
+  margin-bottom: .5em;
+  padding: 1.5em 1.5em 1.5em 1em;
+  border-radius: 1em;
+  border-style: solid;
+  border-width: .5px;
+}
+/*# sourceMappingURL=style.css.map */
