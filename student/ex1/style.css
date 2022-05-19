@@ -1,0 +1,89 @@
+* {
+    max-width: 700px;
+    margin: auto;
+    padding: 0;
+    font-size: large;
+    line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  body {
+    background-color: lightgray;
+  }
+  
+  #nav {
+    margin-top: 40px;
+    padding: 15px;
+    background-color: lightblue;
+    border-radius: 15px;
+    border: 1px solid black;
+    margin-bottom: 15px;
+  }
+  
+  #footer {
+    padding: 15px;
+    background-color: lightseagreen;
+    border-radius: 15px;
+    border: 1px solid black;
+    margin-bottom: 15px;
+  }
+  
+  .section {
+    padding: 15px;
+    background-color: lightcoral;
+    border-radius: 15px;
+    border: 1px solid black;
+    margin-bottom: 15px;
+  }
+  
+  .section2 {
+    background-color: l;
+    background-color: lemonchiffon;
+    border-radius: 15px;
+    border: 1px solid black;
+    margin-bottom: 15px;
+  }
+  
+  .top {
+    padding: 5px;
+  }
+  
+  .bottom {
+    padding: 5px;
+  }
+  
+  .section2 > div > input {
+    margin: 5px;
+  }
+  
+  .sd {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  .sd td {
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    padding: 5px 5px;
+    word-break: normal;
+  }
+  .sd th {
+    background-color: white;
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    color: black;
+    overflow: hidden;
+    padding: 5px 5px;
+    -break: normal;
+  }
+  
+  img[alt="check"] {
+    width: 10px;
+    border: 1px solid black;
+  }
+  
+
+   
+  
