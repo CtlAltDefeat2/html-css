@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    background-color: white;
+    margin-top: 10px;
+}
+
+.logo{
+    max-width: 100px;
+    height: auto;
+}
+
+.middle-section{
+    background-color: lightgray;
+    
+    
+}
+.contact-centered{
+ 
+    margin-left: 400px;
+    padding: 60px;
+}
+
+#username{
+    margin-bottom: 10px;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#password{
+    margin-left: 4px;
+    margin-bottom: 8px;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.submit{
+    background-color: #0072e1;
+    margin-left: 80px;
+    color: white;
+    border: none;
+    padding: 6px;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: gray;
+    padding: 150px;
+}
+
+.footer-CR{
+    margin-left: 400px;
+    margin-top: -140px;
+    color: white;
+}
