@@ -1,0 +1,61 @@
+body{
+    background: gray;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo-strip{
+    .container{
+        img{
+        max-width: 100px;
+        margin-top: 5px;
+    }
+    background: white;
+}
+}
+.login{
+    background: lightgray;
+    padding: 40px;
+    font-size: 12pt;
+    //position: fixed;
+.flex{
+    margin: auto;
+    width: 50%;
+}
+    :placeholder-shown{
+        font-size: 12pt;
+        padding: 10px;
+        border-radius: 5px;
+        border-width: 1px;
+    }
+}
+.copyright-info{
+    color: white;
+    margin: auto;
+    margin-left: 35%;
+    width: 50%;
+}
+input[type="submit"]{
+    background-color: #0072e1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    display: block;
+    padding: 10px 5px;
+    width: unset;
+    margin-left: 80px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.user{
+    input[type="username"]{
+        background-color: white;
+        color: black;
+        border: black;
+        border-radius: 10px;
+        padding: 15px;
+        display: block;
+        margin-top: 10px;
+    }
+    
+}
