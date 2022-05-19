@@ -1,0 +1,49 @@
+*{
+    margin: center;
+}
+
+.nav-img{
+    background-color: white;
+    position: relative;
+    right: 0px;
+    width: 300px;
+    padding: 10px;
+}
+
+.form-login{
+    background-color: lightgray;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.button{
+    display: inline;
+    padding: 10px 15px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #0072e1;
+    border: 2px;
+    border-radius: 8px;
+    margin-right: 40px;
+}
+
+.copy-rights{
+    background-color: gray;
+    margin-top: -3%;
+    padding-top: 0px;
+    padding-bottom: 500px;
+}
+
+.un{
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.pw{
+    padding: 10px;
+    border-radius: 8px;
+}
