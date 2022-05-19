@@ -76,7 +76,7 @@ body {
   color: black;
   overflow: hidden;
   padding: 10px 5px;
-  -break: normal;
+  word-break: normal;
 }
 
 img[alt="check"] {
