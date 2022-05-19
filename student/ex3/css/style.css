@@ -1,0 +1,71 @@
+body {
+  background: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+  padding-left: 2em;
+  padding-top: .5em;
+  padding-bottom: .5em;
+  background: black;
+}
+
+.trial {
+  color: #d83519;
+  background: #ffcdd2;
+  padding-top: 10em;
+  padding-bottom: 10em;
+}
+
+.trial .top-text {
+  font-size: 2.5em;
+  font-weight: bold;
+  margin: .5em;
+}
+
+.trial .free-trial-cta {
+  background: #d83519;
+  color: #ffcdd2;
+  text-decoration: none;
+  padding: .6em 1.3em;
+  font-size: 1.4em;
+  border-radius: 5em;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.trial .bottom-text {
+  font-size: .75em;
+  margin: 3.5em;
+}
+
+.music-player {
+  background: #2941ab;
+  color: #1ed760;
+  padding-top: 10em;
+  padding-bottom: 10em;
+}
+
+.music-player h1 {
+  font-size: 2.5em;
+  padding-bottom: .5em;
+}
+
+.music-player p {
+  font-weight: bold;
+  font-size: medium;
+  padding-bottom: 1em;
+}
+
+.music-player a {
+  display: block;
+  background: #1ed760;
+  color: #ffcdd2;
+  text-decoration: none;
+  padding: .6em 1.3em;
+  font-size: 1.4em;
+  border-radius: 5em;
+  font-weight: bold;
+  display: inline-block;
+}
+/*# sourceMappingURL=style.css.map */
