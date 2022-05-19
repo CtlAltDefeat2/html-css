@@ -1,0 +1,58 @@
+* {
+    margin: auto;
+    padding: 0;
+    font-size: large;
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;    
+    background-color: gray;
+}
+
+input[type=text], input[type=password] {
+    padding: 12px 20px;
+    background-color: white;
+    display: inline-block;
+    border-radius: 1px solid gray;
+}
+
+#footer {
+
+    background-color: gray;
+    color: white
+}
+
+#form-table button {
+    background-color: #0072e1;
+    color: white;
+    padding: 8px;
+    margin: 8px 0;
+    border: 1px solid gray;
+
+}
+
+#nav {
+    background-color: white;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+#form {
+    background-color: lightgray;
+}
+
+#form-table tr td {
+    margin: 50px;
+    padding: 5px;    
+    background-color: lightgray;
+}
+
+#form-table {
+    background-color: lightgray;
+    padding: 50px;
+}
+
+ 
+
+  

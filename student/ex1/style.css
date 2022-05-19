@@ -1,0 +1,87 @@
+* {
+    max-width: 910px;
+    margin: auto;
+    padding: 0;
+    font-size: large;
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  body {
+    background-color: lightgray;
+  }
+
+  .top {
+      padding: 10px
+  }
+
+  #nav {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: lightblue;
+    border-radius: 25px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+  }
+  
+  #footer {
+    padding: 20px;
+    background-color: lightseagreen;
+    border-radius: 25px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+  }
+
+  img[alt="check"] {
+    width: 15px;
+    border: 1px solid black;
+  }
+
+  .partA {
+    padding: 20px;
+    background-color: lightcoral;
+    border-radius: 25px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+  }
+  
+  .bottom {
+      padding: 10px
+  }
+
+  .partB {
+    background-color: l;
+    background-color: lemonchiffon;
+    border-radius: 25px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+  }
+
+  .partB > div > input {
+    margin: 5px;
+  }
+  .tableA {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+
+  .tableA td {
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal; 
+  }
+
+  .tableA th {
+    background-color: white;
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    color: black;
+    overflow: hidden;
+    padding: 10px 5px;
+    -break: normal;
+  }
+
