@@ -1,0 +1,57 @@
+
+*{font-size: 25px;
+}
+.top{
+    background-color: white;
+
+}
+img {
+    width: 100px;
+    margin: 0;
+  }
+
+  .username{
+      margin-bottom: 10px;
+      border-radius: 8px;
+  }
+
+  .password{
+      border-radius: 8px;
+  }
+
+  .form-center {
+    height: 300px;
+    display:flex;
+    background-color:lightgray;
+    width:100%;
+    margin-bottom: 0px;
+}
+
+  .form-center form {
+    justify-content: center;
+    margin: auto;
+  }
+
+  .button {
+    background-color: #0072e1;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    text-align:center;
+    line-height: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 110px;
+    margin-top: 10px;
+  }
+
+  .bottom{
+      padding: 0px;
+      height: 500px;
+      background-color: gray;
+      color: white;
+      text-align: center;
+      font-size: 20px;
+  }
