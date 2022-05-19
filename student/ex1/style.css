@@ -1,0 +1,72 @@
+body {
+    background: lightgray;
+    padding: 0;
+}
+
+.navbar {
+    border-radius: 25px;
+    background: lightblue;
+    border-style: solid;
+    border-color: black;
+
+}
+ul {
+    list-style: none;
+}
+ul li{
+    display: inline-block;
+    padding:0 7px;
+    position:relative;
+}
+ul li:not(:last-child)::after{
+    content:"";
+    border: 1px solid black;
+    border-width: 1px 1px 0 0;
+    position: absolute;
+    right: -3px;
+    top:0;
+    height:80%;
+}
+
+.hero1 {
+    border-radius: 25px;
+    background: lightcoral;
+    border-style: solid;
+    border-color: black;
+    padding: 1em;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+}
+
+td {
+    border-style: solid;
+    border-color: white;
+}
+
+.hero2 {
+    border-radius: 25px;
+    background: lemonchiffon;
+    border-style: solid;
+    border-color: black;
+    padding: 1em;
+}
+
+.hero3 {
+    border-radius: 25px;
+    background: lightseagreen;
+    border-style: solid;
+    border-color: black;
+    padding: 1em;
+}
