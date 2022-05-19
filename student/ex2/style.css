@@ -1,0 +1,46 @@
+
+ body{
+     background-color: white;
+ }
+ #logo {
+  
+ }
+ #section1 {
+     width: 300;
+    margin-top: 50px;
+    padding: 100px;
+    background-color: lightgray;
+    border-radius: 50px;
+    border: 1px solid black;
+    margin-bottom: 0px;
+}
+#click {
+    width: 150;
+    height: 150;
+    color: white;
+   background-color: blue;
+    padding-left: 420px;
+    background-position-x: center;
+}
+#copyright {
+  
+    color:white;
+    margin-top: 0px;
+    padding: 170px;
+    background-color: gray;
+    border-radius: 50px;
+    border: 1px solid black;
+    margin-bottom: 75px;
+}
+#name {
+  padding-left: 300px;
+}
+#code {
+    padding-left: 302px;
+}
+#rights {
+    padding-left: 300px;
+    margin-top: 10px;
+   
+
+}
