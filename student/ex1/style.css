@@ -1,0 +1,85 @@
+* {
+  margin: 4;
+  padding: 0;
+  font-size: large;
+  line-height: 30px;
+  background-color: lightgray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  margin-top: 50px;
+  padding: 25px;
+  background-color: lightblue;
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.p1 {
+  align-content: center;
+  padding: 25px;
+  background-color: lightcoral;
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+table {
+  margin: auto;
+  background-color: lightcoral;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+table, th, td {
+  background-color: lightcoral;
+  border-color: white;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+table th {
+  margin: auto;
+  background-color: white;
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+  color: black;
+  overflow: hidden;
+  padding: 10px 5px;
+  -break: normal;
+}
+
+.p2 {
+  background-color: lemonchiffon;
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.upper {
+  background-color: lemonchiffon;
+  padding: 15px;
+  border-radius: 25px;
+  
+}
+
+form, label {
+  background: lemonchiffon;
+}
+
+.lower {
+  background-color: lemonchiffon;
+  padding: 15px;
+  border-radius: 25px;
+}
+
+footer {
+  padding: 25px;
+  background-color: lightseagreen;
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
