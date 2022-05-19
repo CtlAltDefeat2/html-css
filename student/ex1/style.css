@@ -1,0 +1,41 @@
+body{
+    background-color: lightgray;
+}
+nav{
+    background-color: lightblue;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 25px;
+    border-radius: 30px;
+    border: 2px solid black;
+}
+.section{
+    background-color: lightcoral;
+    margin-bottom: 50px;
+    margin-top: 1px;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 30px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.middle{
+    background-color: lemonchiffon;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+.bottom{
+    background-color: lemonchiffon;
+    padding: 5px;
+}
+footer{
+    background-color: lightseagreen;
+    border-radius: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    margin-top: 20px;
+}
