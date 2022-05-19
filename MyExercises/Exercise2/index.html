@@ -4,24 +4,43 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exercise 2</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
     <body>
-        <nav>
+        <nav id="nav">
             <img src="logo.png" width="100" height="100" title="Logo">
         </nav>
-
-        <main>
-            <label for="username">Username: </label>
-            <input type="text" id="username" name="username">
-
-            <label for="password">Password: </label>
-            <input type="password" id="password" name="password">
-
-            <input type="submit" id="submit" name="submit">
+        
+        <main id="main">
+            <table id="userpass">
+                <tr>
+                    <td>
+                        <label class="label" for="username">Username: </label>
+                    </td>
+                    <td>
+                        <input class="input" type="text" id="username" name="username" placeholder="Username">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label class="label" for="password">Password: </label>
+                    </td>
+                    <td>
+                        <input class="input" type="password" id="password" name="password" placeholder="Password"><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+                    <td>
+                        <button>Submit</button>
+                    </td>
+                </tr>
+            </table>
         </main>
-
-        <footerid="footer">
-            Copyright 2022
+        
+        <footer id="footer">
+            Copyright &copy; 2022
         </footer>
     </body>
 </html>

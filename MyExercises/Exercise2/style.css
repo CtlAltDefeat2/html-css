@@ -1,0 +1,51 @@
+* { 
+  margin: auto;
+  padding: 0;
+  font-size: large;
+  line-height: 30px;
+  font-family: Arial, Helvetica, sans-serif;    
+  background-color: gray;
+}
+
+#nav {
+  background-color: white
+}
+
+#main {
+  background-color: lightgray;
+}
+
+#userpass {
+  padding: 50px;
+  background-color: lightgray;
+}
+
+#userpass td {
+  padding: 5px;
+  background-color: lightgray;
+}
+
+.label {
+  background-color: lightgray;
+}
+
+.input {
+  border-radius: 8px;
+  padding: 8px;
+  border: 1px solid gray;
+  background-color: white;
+}
+
+button {
+  background-color: #0072e1;
+  color: white;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid gray;
+}
+
+#footer {
+  text-align: center;
+  background-color: gray;
+  color: white;
+}
