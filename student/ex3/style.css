@@ -14,8 +14,6 @@ img{
     font-weight: bolder;
 }
 .content{
-    border: 1px solid red;
-    border-radius: 10px;
     background-color: #d83519;
     color: white;
     width: 27%;
@@ -42,6 +40,12 @@ img{
 }
 .cont{
     font-size: 2em;
+}
+button{
+    background-color: #d83519;
+    border-radius: 10px;
+    color:white;
+    padding: 3px 5px;
 }
 .foot{
     background-color: black;
