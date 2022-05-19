@@ -1,0 +1,93 @@
+* {
+  max-width: 960px;
+  margin: auto;
+  padding: 0;
+  font-size: large;
+  line-height: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+style {
+        table, th, td border:1px solid black;
+            border-collapse:collapse;
+            margin-left: auto;
+            margin-right: auto;
+        
+      }    
+
+body {
+  background-color: lightgray;
+}
+
+#nav {
+  margin-top: 50px;
+  padding: 20px;
+  background-color: lightblue;
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+#footer {
+  padding: 20px;
+  background-color: lightseagreen;
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.section {
+  padding: 20px;
+  background-color: lightcoral;
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.section2 {
+  background-color: l;
+  background-color: lemonchiffon;
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.top {
+  padding: 10px;
+}
+
+.bottom {
+  padding: 10px;
+}
+
+.section2 > div > input {
+  margin: 5px;
+}
+
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.tg td {
+  border-color: white;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+.tg th {
+  background-color: white;
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+  color: black;
+  overflow: hidden;
+  padding: 10px 5px;
+  -break: normal;
+}
+
+img[alt="check"] {
+  width: 15px;
+  border: 1px solid black;
+}

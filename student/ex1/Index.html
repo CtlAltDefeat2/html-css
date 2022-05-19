@@ -1,8 +1,153 @@
 <!DOCTYPE html>
 <html>
-    <head>
-    </head>
+<style>table, th, td {
+    border:1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    * {
+  max-width: 960px;
+  margin: auto;
+  padding: 0;
+  font-size: large;
+  line-height: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: lightgray;
+}
+
+#nav {
+  margin-top: 50px;
+  padding: 20px;
+  background-color: lightblue;
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+#footer {
+  padding: 20px;
+  background-color: lightseagreen;
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.section {
+  padding: 20px;
+  background-color: lightcoral;
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.section2 {
+  background-color: l;
+  background-color: lemonchiffon;
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.top {
+  padding: 10px;
+}
+
+.bottom {
+  padding: 10px;
+}
+
+.section2 > div > input {
+  margin: 5px;
+}
+
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.tg td {
+  border-color: white;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+.tg th {
+  background-color: white;
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+  color: black;
+  overflow: hidden;
+  padding: 10px 5px;
+  -break: normal;
+}
+
+img[alt="check"] {
+  width: 15px;
+  border: 1px solid black;
+}
+
+}
+</style>
+
+<head>
+    <title>Assignment 1</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
     <body>
-        Hello World
+        <nav id="nav">
+            Company Logo | Contact Us | FAQ | Careers
+        </nav>
+
+        <main>
+            <div class="section">
+                <table class="tg">
+                    <thead>
+                      <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Age</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>Joe</td>
+                        <td>Green</td>
+                        <td>32</td>
+                      </tr>
+                      <tr>
+                        <td>Peter</td>
+                        <td>Smith</td>
+                        <td>12</td>
+                      </tr>
+                      <tr>
+                        <td>Mary</td>
+                        <td>Sanders</td>
+                        <td>55</td>
+                      </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="section2">
+                <div class="top">
+                  <input type="checkbox" id="Item1" name="Item1" value="Item 1"><label>This</label><br/>
+                  <input type="checkbox" id="Item2" name="Item2" value="Item 2"><label>Is</label><br/>
+                  <input type="checkbox" id="Item3" name="Item3" value="Item 3"><label>Hard</label><br/>
+                </div> 
+                <hr>
+                <div class="bottom">
+                   This is not for newbies :(
+                </div>
+              </div>
+        </main>
+
+        <footer id="footer">
+            Copyright 2022
+        </footer>
+
     </body>
 </html>
+
