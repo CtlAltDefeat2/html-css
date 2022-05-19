@@ -21,7 +21,7 @@
 }
 
 #form-table tr td {
-    padding: 15px;    
+    padding: 5px;    
     background-color: lightgray;
 }
 
@@ -30,7 +30,7 @@
     border-radius: 8px;
     background-color: #116dc9;
     padding: 8px;
-    border: 1px solid gray;
+    border: 1px solid lightgray;
 }
 
 #form-table input {
@@ -40,6 +40,8 @@
     background-color: rgb(245, 239, 239);
 }
 footer {
+    margin-bottom: 10px;
+    padding-top: 10px;
     align-items: center;
     background-color: gray;
     color: white;

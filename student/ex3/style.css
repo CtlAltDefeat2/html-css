@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+}
+header  {
+    background-color: black;
+    padding: 10px;
+}
+footer {
+    background-color: black;
+    padding: 10px;
+}
+#top {
+    background-color: #ffcdd2;
+    height: 565px;
+}
+#bottom {
+    background-color: #2941ab;
+    height: 565px;
+}
+#premium {
+    margin: 0;
+    
+    padding-top: 10%;
+    font-size: 400%;
+    color: #d83519;
+    text-align: center;
+}
+#freeTrial {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 135%;
+    border-radius: 25px;
+    background-color: #d83519;
+    color: white;
+    border: 1px solid #d83519;
+    padding: 10px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+#terms {
+    text-align: center;
+    margin-top: 5%;
+    font-size: 75%;
+    color: #d83519;
+}
+#looking {
+    margin: 0;
+    color: #1ed760;
+    text-align: center;
+    font-size: 400%;
+    padding-top: 10%;
+}
+#start {
+    text-align: center;
+    color: #1ed760;
+    font-size: 150%;
+    padding-top: 10px;
+}
+#openWeb {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 55px;
+    border-radius: 25px;
+    background-color: #1ed760;
+    border: 1px solid #1ed760;
+    color: white;
+    font-size: 135%;
+    padding: 10px;
+    cursor: pointer;
+}
