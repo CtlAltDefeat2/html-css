@@ -1,0 +1,63 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+
+.title {
+    border-radius: 25px;
+    background-color: lightblue;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+
+  .body1 {
+    border-radius: 25px;
+    background-color: lightcoral;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+
+  table {
+    border-collapse: collapse;
+    height: 200px;
+    width: max-content;
+  }
+
+  th {
+    border-color: gray;
+    background-color: white;
+    border-style: solid;
+    border-width: thin;
+    font: bold;
+    padding: 5px;
+  }
+
+  td {
+    border-color: white;
+    border-style: solid;
+    border-width: thin;
+    padding: 5px;
+  }
+
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .body2 {
+    background-color: lemonchiffon;
+    border-radius: 25px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+
+  .footer {
+    background-color: lightseagreen;
+    border-radius: 25px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
