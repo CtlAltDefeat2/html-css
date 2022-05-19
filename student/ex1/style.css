@@ -1,3 +1,7 @@
+* {
+    margin:auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
 body{
     background-color: lightgray;
 }
@@ -18,7 +22,21 @@ nav{
     padding: 30px;
     margin-right: auto;
     margin-left: auto;
-
+}
+.customTable{
+    width: 40%;background-color:lightcoral;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;color: black;
+}
+table.customTable td, table.customTable th {
+    border-width: 1px;border-color: white;
+    border-style: solid;
+    padding: 10px;
+}
+table.customTable thead {
+    background-color: white;
 }
 .middle{
     background-color: lemonchiffon;
