@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+nav{
+    background-color: black;
+}
+
+
+
+.sec1{
+    background-color: #ffcdd2;
+    text-align: center;
+    height: 60%;
+    position: fixed;
+    width: 100%;
+    
+
+}
+
+#premium{
+    font-size: 400%;
+    font-weight: bold;
+    color: #d83519;
+    margin-top: 10%;
+    
+    
+    
+
+}
+a{
+    background-color: #d83519;
+    border: 10px solid #d83519;
+    border-radius: 20px;
+    color: #ffcdd2;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+.link{
+    margin-top: 50px;
+}
+.sec2{
+    background-color: #2941ab;
+   
+}

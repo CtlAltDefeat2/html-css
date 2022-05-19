@@ -1,0 +1,67 @@
+* {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    
+  }
+  
+  body {
+    background-color: lightgrey;
+    margin: 3%;
+   
+  }
+  
+  #toppage {
+    border: 1px solid black;
+    background-color: lightblue;
+    border-radius: 20px;
+    padding: 20px;
+    margin-right: 1%;
+    margin-left: 1%;
+    margin-top: 3%;
+  }
+  
+  th,tr,td {
+    border: solid 1px;
+  }
+  .tablebackground {
+    background-color: lightcoral;
+    border-radius: 20px;
+    height: 270px;
+    border: 1px solid black;
+    margin-right: 1%;
+    margin-left: 1%;
+  }
+  .part2 {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  th {
+    background-color: white;
+    padding: 10px;
+  }
+  .text {
+    padding: 10px;
+  }
+  .border {
+    border-color: white;
+  }
+  
+  .checkboxes {
+    border: solid 1px black;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: lemonchiffon;
+    margin-right: 1%;
+    margin-left: 1%;
+  }
+  .bottom {
+    border: 1px solid black;
+    background-color: lightseagreen;
+    padding: 20px;
+    border-radius: 20px;
+    margin-right: 1%;
+    margin-left: 1%;
+  }
