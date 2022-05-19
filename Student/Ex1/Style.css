@@ -1,0 +1,87 @@
+* {
+    max-width: 900px;
+    margin: auto;
+    padding: 0;
+    font-size: medium;
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  body {
+    background-color: lightgray;
+  }
+  
+  #nav {
+    margin-top: 50px;
+    padding: 10px;
+    background-color: lightblue;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+  }
+  
+  #footer {
+    padding: 10px;
+    background-color: lightseagreen;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+  }
+  
+  .section {
+    padding: 10px;
+    background-color: lightcoral;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+  }
+  
+  .section2 {
+    background-color: l;
+    background-color: lightyellow;
+    border-radius: 25px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+  }
+
+  .tg {
+      border-collapse: collapse;
+      border-spacing: 0;
+  }
+
+  .tg td {
+      border-color: white;
+      border-style: solid;
+      border-width: 1px;
+      padding: 10px 5px;
+      overflow: auto;
+      word-break: normal;
+  }
+
+  .tg th {
+    background-color: white;
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    color: black;
+    overflow: hidden;
+    padding: 10px 5px;
+    -break: normal;
+  }
+  
+  .top {
+    padding: 10px;
+  }
+  
+  .bottom {
+    padding: 10px;
+  }
+  
+  .section2 > div > input {
+    margin: 5px;
+  }
+  
+  img[alt= "check"] {
+    width: 20px;
+    border: 1px solid black;
+  }
