@@ -1,0 +1,88 @@
+* {
+    max-width: 960px;
+    margin: auto;
+    padding: 0;
+    font-size: large;
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  body {
+    background-color: lightgray;
+  }
+  
+  #headliner {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: lightblue;
+    border-radius: 25px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+  }
+  
+  #Copyright {
+    padding: 20px;
+    background-color: lightseagreen;
+    border-radius: 25px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+  }
+  
+  .firstone {
+    padding: 20px;
+    background-color: lightcoral;
+    border-radius: 25px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+  }
+  
+  .number2 {
+    background-color: l;
+    background-color: lemonchiffon;
+    border-radius: 25px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+  }
+  
+  .items {
+    padding: 10px;
+  }
+  
+  .text {
+    padding: 10px;
+  }
+  
+  .number2 > div > input {
+    margin: 5px;
+  }
+  
+  .information {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  .information td {
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+  }
+  .information th {
+    background-color: white;
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    color: black;
+    overflow: hidden;
+    padding: 10px 5px;
+    -break: normal;
+  }
+  
+  img[alt="check"] {
+    width: 15px;
+    border: 1px solid black;
+  }
+  
+
+  
