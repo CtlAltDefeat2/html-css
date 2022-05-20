@@ -2,6 +2,10 @@ body {
     margin: 0;
     font-family: spotify-circular, Helvetica, Arial, sans-serif;
 }
+.flex-container{
+    display: flex;
+    flex-direction: column;
+}
 header  {
     background-color: black;
     padding: 10px;
