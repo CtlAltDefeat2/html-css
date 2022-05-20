@@ -1,0 +1,67 @@
+header{
+    background-color: black;
+    width: 100%;
+    padding:20px 0;
+    position: relative;
+    top: -20px;
+    left: -8px;
+    
+    
+}
+
+img{
+    margin-left: 20px;
+    width: 9%;
+}
+
+body{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(to bottom,
+    #ffcdd2 0%,
+    #ffcdd2 50%,
+    #2941ab 50%,
+    #2941ab 100%);
+}
+
+.trial{
+    text-align: center;
+    color: #d83519;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 50px;
+    
+    
+}
+.button{
+    background-color: #d83519;
+    border: none;
+    border-radius: 25px;
+    padding: 10px;
+    color: white;
+}
+
+.player{
+    margin-top: 160px;
+    text-align: center;
+    color: #1ed760;
+}
+
+.button-web{
+    border: none;
+    border-radius: 25px;
+    padding: 10px;
+    color: white;
+    background-color: #1ed760;
+}
+
+footer{
+    background-color: black;
+    padding:20px 0;
+    position: fixed;
+    bottom: -20px;
+    left: -8px;
+    right: 1px;
+}
