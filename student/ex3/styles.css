@@ -1,47 +1,70 @@
-*{
-    margin: 0;
-    padding: 0;
-    
+* {
+  margin: 0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
-nav{
-    background-color: black;
+nav {
+  background-color: black;
+}
+img {
+  margin-left: 30px;
+}
+.flex-container {
+  display: flex;
+  background-color: #ffcdd2;
+  height: 500px;
+  flex-direction: column;
+}
+.container-1 {
+  font-size: 400%;
+  text-align: center;
+  margin-top: 100px;
+
+  font-weight: bold;
+}
+#premium {
+  color: #d83519;
 }
 
-
-
-.sec1{
-    background-color: #ffcdd2;
-    text-align: center;
-    height: 60%;
-    position: fixed;
-    width: 100%;
-    
-
+.container-2 {
+  text-align: center;
+  margin-top: 100px;
+}
+.input-click {
+  text-decoration: none;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 30px;
+  padding: 1%;
 }
 
-#premium{
-    font-size: 400%;
-    font-weight: bold;
-    color: #d83519;
-    margin-top: 10%;
-    
-    
-    
+#trial-click {
+  border: 1px solid #d83519;
+  background-color: #d83519;
+  color: #ffcdd2;
+}
+.container-3 {
+  text-align: center;
+  margin-top: 5%;
+  font-family: "Times New Roman", Times, serif;
+  color: #d83519;
+  padding: 5%;
+}
 
+#flex-second {
+  background-color: #2941ab;
 }
-a{
-    background-color: #d83519;
-    border: 10px solid #d83519;
-    border-radius: 20px;
-    color: #ffcdd2;
-    text-decoration: none;
-    font-weight: bold;
-    
+#music, #releases {
+  color: #1ed760;
 }
-.link{
-    margin-top: 50px;
+#releases {
+  font-size: 200%;
 }
-.sec2{
-    background-color: #2941ab;
-   
+#player-click {
+  border: 1px solid #1ed760;
+  background-color: #1ed760;
+  color: white;
+}
+
+footer {
+  background-color: black;
 }
