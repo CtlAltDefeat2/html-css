@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    background-color: white;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    max-width: 100px;
+    height: auto;
+}
+
+.move{
+    margin-left: auto;
+    padding-right: 10px;
+}
+
+.middle-section{
+    background-color: lightgray;
+    padding: 150px;
+    border-top: 1px solid black;
+}
+
+.welcome-message{
+text-align: center;
+background-color: white;
+padding: 20px;
+border: 1px solid black;
+border-radius: 25px;
+font-weight: bold;
+}
+
+footer{
+    background-color:#0072e1 ;
+    padding: 35px;
+    color: lightgray;
+    display: flex;
+    padding-top: 0%;
+}
+
+.last-words{
+    flex:1;
+}
