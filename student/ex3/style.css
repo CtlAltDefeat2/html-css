@@ -1,0 +1,47 @@
+*{
+    margin: auto;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    background-color: black;
+}
+.premium{
+    background-color: #ffcdd2;
+    color: #d83519;
+    text-align: center;
+    padding: 100px;
+}
+.button{
+    border-radius: 25px;
+    text-align: center;
+    padding: 8px;
+    margin-top: 5px;
+    background-color:#d83519;
+    color: white;
+    border: none;
+}
+.term{
+    margin-top: 40px;
+}
+.music{
+    background-color: #2941ab;
+    padding: 12px;
+    color: #1ed760;
+    text-align: center;
+    height: 350px
+}
+.button2{
+    background-color: #1ed760;
+    border-radius: 25px;
+    text-align: center;
+    margin-top: 15px;
+    color: white;
+    padding: 8px;
+    border: none;
+}
+.footer{
+    background-color: black;
+    text-align: left;
+}
