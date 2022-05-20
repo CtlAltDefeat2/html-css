@@ -1,0 +1,47 @@
+*{
+    margin:center;
+
+}
+img {
+    width: 200px;
+    background-color: white;
+    
+}
+.logo {
+    background-color: white;
+ 
+}    
+body{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.login {
+    text-align: center;
+    background-color: lightgray;
+    height: 268px;
+
+}
+
+.button {
+    background-color: #0072e1;
+    margin-left: 75px;
+    color:white;
+    border-radius: 8px;
+    padding: 9px;
+
+
+}
+#footer {
+   background-color: gray;
+   color: white;
+   text-align: center;
+   height: 500px;
+
+}
+form{
+    margin:auto;
+    justify-content: center;
+    
+    }
+
+
