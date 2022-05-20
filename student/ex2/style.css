@@ -1,0 +1,56 @@
+* {
+    margin: auto;
+}
+
+body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+nav {
+    background-color: white;
+}
+
+.logo {
+    width: 100px;
+    background-color: white;
+}
+
+.username {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: px;
+    padding-top: 8px;
+    border-radius: 7px;
+}
+
+.username-section {
+    background-color: lightgray;
+    height: 300px;
+    text-align: center;
+    display: flex;
+}
+
+.password {
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 1em;
+    border-radius: 7px;
+}
+
+.button {
+    margin-left: 7px;
+    background-color: #0072e1;
+    color: white;
+    border-radius: 7px;
+    padding: 10px;
+
+}
+
+#footer {
+    background-color: gray;
+    height: 500px;
+    text-align: center;
+    color: white
+}
