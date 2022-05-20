@@ -1,27 +1,93 @@
 * {
   background-color: lightgray;
-  margin: auto;
+  margin: 0;
+  padding: 0;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+  height: 104px;
 }
 
 body {
   background-color: lightgray;
 }
 
+main {
+  margin-top: 200px;
+  margin-bottom: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  background-color: white;
+  border-spacing: 30px;
+}
+
+tr {
+  padding: 30px;
+}
+
 .flex-container {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 #flexnav {
   background-color: white;
+  height: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#navlinks {
+  background-color: white;
+}
+
+#navlinks div {
+  background-color: white;
+}
+
+#center {
+  border: 1px solid gray;
+  background-color: white;
+  border-radius: 25px;
+  width: 500px;
+  text-align: center;
+  align-self: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#welcome {
+  margin-top: 35px;
+  background-color: white;
+  margin-bottom: 35px;
+}
+
+#wheretoday {
+  background-color: white;
+  margin-bottom: 35px;
 }
 
 #flexfooter {
   background-color: #0072e1;
+  padding: 20px;
 }
 
 #flexfooter div {
   background-color: #0072e1;
   color: lightgray;
-  margin-bottom: auto;
+  padding-bottom: 200px;
+}
+
+#copyright {
+  align-self: left;
+}
+
+#company {
+  align-self: left;
 }
