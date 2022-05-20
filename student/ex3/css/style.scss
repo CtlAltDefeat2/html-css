@@ -12,14 +12,7 @@ body{
     margin: 0;
     background: black;
 }
-.navbar, .footer{
-    background-color: black;
-    .img{
-        width: 110px;
-        margin-left: 25px;
-        padding: 5px;
-    }
-}
+
 
 input{
     font-weight: bold;
@@ -60,4 +53,12 @@ h1{
 }
 .container-center{
     text-align: center;
+}
+.navbar, .footer{
+    background-color: black;
+    .img{
+        width: 110px;
+        margin-left: 25px;
+        padding: 5px;
+    }
 }
