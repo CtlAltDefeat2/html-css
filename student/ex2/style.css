@@ -1,0 +1,33 @@
+.nav{
+    background-color: white;
+}
+
+.form{
+    background-color: lightgray;
+    text-align: center;
+    padding:20px;
+    margin: 0px -10px;
+
+}
+
+input[type=submit]{
+    background-color: #0072e1;
+    border: solid grey 1px;
+    border-radius: 5px;
+    color: white;
+    margin: 10px 0px;
+    padding: 10px 5px;
+}
+
+.pass{
+    margin-right: 2px;
+}
+
+
+.footer{
+    background-color: gray;
+    text-align: center;
+    padding-bottom: 400px;
+    color: white;
+    margin: 0px -10px;
+}
