@@ -1,6 +1,9 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
 }
+body{
+    background-color: lightgray;
+}
 img{
     width: 150px;
     height: auto;
@@ -8,24 +11,18 @@ img{
 .flex{
     display: flex;
     align-items: center;
+    border-bottom: 1px solid black;
 }
 .nav{
    margin-left: auto;
+   
+}
+.whole{
+    background-color: lightgray;
 }
 .section{
-    background-color: lightgray;
-    border: 1px solid black;
-    padding: 100px;
-}
-
-.content{
-    border: 1px solid black;
-    border-radius: 10px;
+    border: soild white;
     background-color: white;
-    text-align: center;
-    font-size: larger;
-    font-weight: bolder;
-    padding: 20px;
 }
 .foot{
     background-color: skyblue;
