@@ -1,0 +1,67 @@
+.spotify{
+    background-color: black;
+    padding: 10px;
+}
+.go{
+    background-color: #ffcdd2;
+    text-align: center;
+    padding: 100px;
+}
+.premium{
+    font-size: 70px;
+    color: #d83519;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 100px;
+    
+    
+}
+span.b{
+    color:white;
+    background-color: #d83519;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20PX;
+    border-radius: 2em;
+    height: 200px;
+    margin: 100px;
+    font-size: 12px;
+    position: relative;
+    top: 50px;
+}
+.terms{
+    color: #d83519;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50PX;
+    font-size: small;
+    position: relative;
+    bottom:50px ;
+    
+}
+.look{
+    background-color: #2941ab;
+    text-align: center;
+    padding: 50px; 
+}
+.looking{
+    color: #1ed760;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.listening{
+    color: #1ed760;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 170px;
+}
+span.a{
+    color: white;
+    background-color: #1ed760;
+    border-radius: 2em;
+    padding: 1em;
+    position:relative;
+    bottom:250px
+}
+*{
+    padding: 30px;
+}
