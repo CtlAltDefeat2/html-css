@@ -1,0 +1,76 @@
+* {
+    max-width: 1000px;
+    margin: auto;
+    padding: 0;
+     line-height: 40px;
+}
+img {
+    
+    background-color: black;
+       
+}
+   
+body{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.Premium {
+    text-align: center;
+    background-color: #ffcdd2;
+    height: 250px;
+    font-size: 300%;
+    color:red
+}
+.terms {
+    text-align: center;
+    background-color: lightgray;
+    font-size: 25%;
+
+
+}.music {
+    text-align: center;
+    background-color: blue;
+    height: 250px;
+    font-size: 50px;
+    color:rgb(26, 235, 26)
+    
+    
+}
+
+.new {
+    text-align: center;
+    font-size: 20px;
+    background-color: blue;
+    height: 268px;
+    color: rgb(31, 226, 31)
+    
+    
+
+}
+
+.button {
+    background-color: red;
+    margin-left: 75px;
+    margin-top: 50px;
+    color:white;
+    border-radius: 20px;
+    padding: 3px;
+
+
+}
+
+.button2 {
+        background-color: rgb(12, 231, 12);
+        margin-left: 75px;
+        color: white;
+        border-radius: 20px;
+        padding: 3px;
+}
+.footer {
+   background-color: rgb(0, 0, 0);
+   height: 20px;
+
+}
+
+
+
