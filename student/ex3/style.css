@@ -1,0 +1,37 @@
+*{font-family: Arial, Helvetica, sans-serif;}
+
+img {width: 126px;}
+
+.logo {background-color: black;}
+
+.section2 {background-color: #ffcdd2;
+color: #d83519;
+height: 180px;
+text-align: center;
+font-weight: bolder;
+padding: 125px;
+;}
+
+.button1 {background-color: #d83519;
+color: white;
+ border-color: #ffcdd2;
+border-radius: 30px;
+padding: 10px;}
+
+ .section3 {background-color: #2941ab;
+color: #1ed760;
+height: 180px;
+text-align: center;
+padding: 125px;}
+
+.button2 {background-color: #1ed760;
+color: white;
+border-color: #2941ab;
+border-radius: 30px;
+padding: 10px;}
+
+h1 {font-size:50px;}
+
+h2 {font-size: 50px;}
+
+p1 {font-size: 25px;}
