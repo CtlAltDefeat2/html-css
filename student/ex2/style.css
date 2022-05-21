@@ -6,31 +6,27 @@
   
  }
  #section1 {
-     width: 300;
+   
     margin-top: 50px;
     padding: 100px;
     background-color: lightgray;
-    border-radius: 50px;
-    border: 1px solid black;
-    margin-bottom: 0px;
+   
 }
 #click {
-    width: 150;
-    height: 150;
+    background-color: blue;
+    border: 25px;
+    width: 420px;
+    overflow: hidden;
+    background: padding-left: 420px ;
+    padding: 10px 5px;
     color: white;
-   background-color: blue;
     padding-left: 420px;
-    background-position-x: center;
+    
 }
-#copyright {
-  
+#copyright { 
     color:white;
-    margin-top: 0px;
     padding: 170px;
-    background-color: gray;
-    border-radius: 50px;
-    border: 1px solid black;
-    margin-bottom: 75px;
+    background-color: gray;  
 }
 #name {
   padding-left: 300px;
