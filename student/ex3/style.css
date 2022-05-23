@@ -5,17 +5,25 @@
 #section1 {
     padding: 50px;
     background-color: #ffcdd2;
+    padding-left: 450px;
 }
 #section2 {
     padding: 100px;
     background-color: #2941ab;
+    padding-left: 450px;
 }
 #trial {
     background-color: #d83519;
+    width: 150px;
+    border-radius: 20px;
+    border: 1px solid black;
+    padding: 5px;
 }
 
 #webplayer {
     background-color: #1ed760;
+    width: 150px;
+    border-radius: 20px;
 }
 #section3 {
     background-color: black;
