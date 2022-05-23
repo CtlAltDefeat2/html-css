@@ -1,0 +1,68 @@
+#logo{
+    height: 70px;
+    width: 1503px;
+    background-image:url("../../images/spotify-logo.png");
+    background-repeat: no-repeat;
+    background-color: black;
+    align-items: left;
+   
+    
+    
+}
+#box{
+    height: 70px;
+    width: 900px;
+    background-color: black;
+}
+
+#premium{
+    font-size: 100px;
+    font-family: sans-serif;
+    text-align: center;
+    height: 300px;
+    padding-top: 200px;
+    color:#d83519;
+    background-color: #ffcdd2;
+}
+#button{
+    background-color: #d83519;
+    color: white;
+    border-radius: 45px 45px 45px 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-width: 0px;
+}
+#terms{
+    font-size: medium;
+    
+}
+#looking{
+    font-size: 75px;
+    font-family: sans-serif;
+    text-align: center;
+    height: 300px;
+    padding-top: 200px;
+    color:#1ed760;
+    background-color: #2941ab;
+}
+#start{
+    padding-top: 50px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#button2{
+    background-color: #1ed760;
+    color: white;
+    border-radius: 45px 45px 45px 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-width: 0px;
+}
+#logo2{
+    height: 70px;
+    width: 1503px;
+    background-image:url("../../images/spotify-logo.png");
+    background-repeat: no-repeat;
+    background-color: black;
+    align-items: left;
+}
