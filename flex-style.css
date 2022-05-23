@@ -14,7 +14,8 @@
     flex-direction: row; /* default is row */
     padding: 0px; /* WWTD */
     /* height: 500px; */  /* WWTD */
-    /* align-items: center; */ /* WWTD */
+    align-items:flex-end; /* WWTD */
+    /*flex-wrap: wrap;*/
  }
 
 .flex-item {

@@ -25,11 +25,9 @@ input[type=submit] {
   border-radius: 5px;
 }
 
-.copyright {
+.copyright-container {
   background-color: gray;
-  text-align: center;
-  color: white;
-  padding-bottom: 250px;
-  margin: 0px -10px;
+  width: 2000px;
+  height: 500px;
 }
 /*# sourceMappingURL=style.css.map */
