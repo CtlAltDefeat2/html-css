@@ -1,0 +1,53 @@
+#section{
+    background-color: gray;
+  display: grid;
+  grid-row: auto;  
+}
+.logo{
+    width: 110px;
+    height: 110px;
+}
+.style1{
+    border-bottom: solid black;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: auto;
+    align-items: center;
+    list-style: auto;
+}
+.content{
+    display: flex;
+    background-color: lightgrey;
+    padding: auto;
+}
+.bird{
+    justify-content: space-between;
+    align-items: center;
+    list-style: auto;
+    display: flex;
+    background-color: lightgray;
+    padding: auto;
+
+}
+header{
+    border-bottom: 2px;
+    border-color: black;
+}
+footer{
+    color: lightgray;
+    height: 300px;
+    display: flex;
+    padding: 20px;
+    text-align: center;
+    justify-content: space-between;
+    background-color:blue;
+}
+
+li{
+  margin-left: 50px;  
+}
+ul{
+    padding-top: 15px;
+    background-color: white;
+}

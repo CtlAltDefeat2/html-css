@@ -1,11 +1,17 @@
 #user{
-    
+    width: 300px;
+    margin-top: 50px;
+    padding: 200px;
+
     background-color: lightgray;
     
 
 }
 #copyright{
     color: white;
+    padding: 200px;
+    width: 300px;
+    
    
     background-color: gray;
    
