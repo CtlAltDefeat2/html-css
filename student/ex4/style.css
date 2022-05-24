@@ -1,0 +1,57 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 80px;
+}
+
+.navbar {
+    background-color: white;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flexcontainer-main {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.section1 {
+    background-color: lightgray;
+    height: 425px;
+    align-self
+}
+
+.flexcontainer {
+    background-color: #0072e1;
+    color: lightgray;
+    height: 95px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.navbar li {
+    list-style-type: none
+}
+
+.box {
+    background-color: white;
+    width: 400px;
+    height: 170px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.text {
+    text-align: center;
+    padding: 35px;
+    font-weight: bold;
+    line-height: 50px;
+}
