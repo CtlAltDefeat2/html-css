@@ -24,13 +24,13 @@ footer {
 }
 #premium {
     margin: 0;
-    
     padding-top: 10%;
     font-size: 400%;
     color: #d83519;
     text-align: center;
 }
 #freeTrial {
+    font-variant: uppercase;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -43,7 +43,6 @@ footer {
     margin-top: 30px;
     cursor: pointer;
 }
-
 #terms {
     text-align: center;
     margin-top: 5%;
