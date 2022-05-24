@@ -1,0 +1,76 @@
+* { margin: 0;
+    padding: 0; 
+
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+header {
+    background-color: black;
+}
+.section {
+    background-color: #ffcdd2;
+    height: 500px;
+     
+}
+#premium {
+    color: #d83519;
+    font-size: 350%;
+    text-align: center;
+    padding-top: 180px ;
+
+}
+#freeTrial {
+display: block;
+color: white;
+background-color: #d83519;
+border: 1px solid #d83519;
+border-radius: 20px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 20px;
+padding: 10px;
+}
+#terms {
+    color: #d83519;
+    font-size: xx-small;
+    text-align: center;
+    padding-top: 20px ;
+
+}
+
+.section2 {
+background-color: #2941ab;
+height: 500px;
+}
+#looking {
+    color: #1ed760;
+    font-size: 350%;
+    text-align: center;
+    padding-top: 180px ;
+
+}
+#start {
+color: #1ed760;
+text-align: center;
+padding-top: 15px;
+}
+#open {
+display: block;
+color: white;
+background-color: #1ed760;
+border: 1px solid #1ed760;
+border-radius: 20px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 20px;
+padding: 10px;
+}
+
+footer {
+    background-color: black;
+    
+}
+
