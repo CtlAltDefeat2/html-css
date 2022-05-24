@@ -1,38 +1,36 @@
 * {
-    margin: 0px;
-    font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 img {
-    width: 100px;
-    height: auto;
+  width: 100px;
+  height: auto;
 }
 .flex {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 .navbar {
-    margin-left: auto;
+  margin-left: auto;
 }
 .main {
-    background-color: lightgray;
-    border: 1px solid gray;
-    padding: 110px;
-
-
+  background-color: lightgray;
+  border: 1px solid gray;
+  padding: 110px;
 }
 .text {
-    border: 1px solid gray;
-    border-radius: 25px;
-    background-color: white;
-    text-align: center;
-    font-size: larger;
-    padding: 40px;
+  border: 1px solid gray;
+  border-radius: 25px;
+  background-color: white;
+  text-align: center;
+  font-size: larger;
+  padding: 40px;
 }
 .footer {
-    background-color: blue;
-    padding-top: 10px;
-    padding-bottom: 100px;
-    display: flex;
-    justify-content: space-between;
-    color: lightgray;
+  background-color: blue;
+  padding-top: 10px;
+  padding-bottom: 100px;
+  display: flex;
+  justify-content: space-between;
+  color: lightgray;
 }
