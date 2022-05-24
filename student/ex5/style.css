@@ -1,0 +1,42 @@
+body {
+  background-color: white;
+}
+
+.flex-container-nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    border-bottom: 1px solid black;
+    align-items: center;
+}
+
+.container-fluid{
+    background-color: lightgray;
+    padding: 50px;
+    justify-content: space-evenly;
+}
+
+.together {
+  display: flex;
+  background-color: white;
+  flex-direction: column;
+  
+}
+
+#copyright{
+    background-color: rgb(72, 121, 212);
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    height: 400px;
+}
+
+.bird{
+    background-color: white;
+    justify-content: space-around;
+    padding: 30px;
+    }
+
+.row{
+    padding: 30px;
+}

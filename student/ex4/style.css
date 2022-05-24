@@ -1,11 +1,7 @@
-
 body {
 background-color: white; 
 border-style:solid;
 border-color: black;}
-head{
-    min-height: fit-content;
-}
 
 #navbar { 
 display:flex; 
@@ -13,35 +9,42 @@ align-items: flex-end;
 border-bottom: 2px solid black;
 font-family: Arial, Helvetica, sans-serif;
 justify-content: space-between;
+display:flex;
+justify-content: space-around;
 }
 
 .flex-container1{
-    background-color: lightgray;
-    display: flex;
-    flex-direction: row;
-    height:400px;
-    align-items: center;
-    font-family: Arial, Helvetica, sans-serif ;
-    font-size: larger;
-    justify-content: space-around;
-      text-align: center;
+background-color: lightgray;
+display: flex;
+flex-direction: row;
+height:400px;
+align-items: center;
+font-family: Arial, Helvetica, sans-serif ;
+font-size: larger;
+justify-content: space-around;
+text-align: center;
+display:flex;
+justify-content: space-around;
 }
 
 .together{
-    background-color: white;
-    border-style: collapse;
-    height: 100px;
-    padding: 30px;
-    border-radius: 20px;
-    justify-content: space-between;
-    text-align: center;
+display:flex;
+background-color: white;
+border-style: collapse;
+height: 90px;
+padding: 30px;
+border-radius: 20px;
+text-align: center;
+flex-direction: column;
 }
 
 .flex-container2{
-    display: flex;
-    background-color: rgb(72, 121, 212);
-    height: 150px;
-    justify-content: space-between;
+display:flex;
+justify-content: space-around;
+display: flex;
+background-color: rgb(72, 121, 212);
+height: 150px;
+justify-content: space-between;
 font-family: Arial, Helvetica, sans-serif;
 color: rgb(218, 212, 212);
 font-size: large;
@@ -49,18 +52,21 @@ padding-top: 20px;
 }
 
 .flex-container3{
-    flex-direction: row;
-    display: flex;
-    font-family: Arial, Helvetica, sans-serif;
-    justify-content:flex-end;
-
-    align-content: center;
-    line-height: 100px;
+flex-direction: row;
+display: flex;
+font-family: Arial, Helvetica, sans-serif;
+justify-content:flex-end;
+align-content: center;
 }
 
 .tools{
-    text-align: center;
-    justify-items: center;
-    justify-content: space-between;
-    align-content: center;
+text-align: center;
+justify-items: center;
+justify-content: space-between;
+align-content: center;
+}
+
+.bird{
+display:flex;
+justify-content: space-around;
 }
