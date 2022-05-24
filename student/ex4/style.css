@@ -1,0 +1,54 @@
+#section1 {
+    background-color: gray;
+    padding: 140px;
+    display: flex;
+    justify-content: center;
+   
+}
+#section2 {
+    background-color: blue;
+    padding: 45px;
+}
+#headliner{
+    padding-left: 1300px;
+    position: relative;
+   bottom: 50px;
+}
+.flexbox-container{
+    display: flex;
+    overflow: hidden;
+    width: 500px;
+    justify-content: center;
+    border-radius: 50px;
+    
+
+
+}
+.flexbox-item{
+    flex: 1;
+    width: 10px; 
+    height: 200px;
+    margin: 10px;
+    padding: 20px;
+    border: radius 10px; 
+    background: white;
+    
+   
+    
+}
+#welcome{
+    padding-left: 150px;
+}
+#today{
+    padding-left: 100px;
+}
+#header {
+   display: inline;
+}
+#llc {
+   
+    padding-left: 500px;
+}
+#build{
+    padding-left: 400px;
+}
