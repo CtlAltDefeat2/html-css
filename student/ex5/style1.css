@@ -26,8 +26,11 @@ ul{
     background-color: white;
     display: flex;
     justify-content: center;
+    padding-bottom: 5px;
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 footer{
     padding-top: 5px;
