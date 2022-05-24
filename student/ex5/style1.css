@@ -2,6 +2,9 @@
     width: 100px;
     height: 100px;
 }
+header{
+    border-bottom: 1px solid black;
+}
 .links{
     display: flex;
     align-items: center;
@@ -13,25 +16,24 @@ li{
     margin-left: 40px;
 }
 .content{
-    display: flex;
     background-color: lightgray;
+    /* margin-top: 10px; */
     padding: 10px;
 }
 ul{
-    padding-top: 10px;
     background-color: white;
 }
-.bird{
+
+.flexcontainer-bird {
     background-color: white;
-    align-self: center;
-    text-align: center;
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-top: 7px;
-    padding-bottom: 7px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
-footer {
-    padding-top: 10px;
+
+footer{
+    padding-top: 5px;
     color: lightgray;
     text-align: center;
     display: flex;
