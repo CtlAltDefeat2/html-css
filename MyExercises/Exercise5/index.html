@@ -1,21 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exercise 5</title>
-</head>
+    <head>
+       <title>Exercise 5</title>
+       <link rel="stylesheet" type="text/css" href="style.css">
+       <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    </head>
     <body>
-        <nav>
+        <header id="header">
+            <div id="flexheader" class="flex-container">
+                <div><img id="logo" src="logo.png" width="100" height="100" title="LOGO LLC" alt="Logo"></div>
+                <nav><p id="nav">Contact Us | Careers | FAQ</p></nav>
+            </div>
+        </header>
 
-        </nav>
-
-        <main>
-
+        <main id="main">
+            <div id="contents">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div id="lists">
+                                We specialize in these drinks:
+                                <ul class="lists">
+                                    <li class="listitems">Coffee</li>
+                                    <li class="listitems">Tea</li>
+                                    <li class="listitems">Milk</li>
+                                </ul>
+                                We specialize in these foods:
+                                <ul class="lists">
+                                    <li class="listitems">Bread</li>
+                                    <li class="listitems">Apples</li>
+                                    <li class="listitems">Oranges</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div id="image">
+                                <img id="bird" src="bird.png" width="300" height="265" title="Bird" alt="Bird">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </main>
 
         <footer>
-
+            <div id="flexfooter" class="flex-container">
+                <div id="copyright">Copyright &copy; 2022</div>
+                <div>Build:  1.123.456</div>
+                <div id="company">LOGO LLC</div>
+            </div>
         </footer>
     </body>
 </html>
