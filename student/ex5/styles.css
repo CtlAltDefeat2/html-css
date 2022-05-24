@@ -4,6 +4,11 @@
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+body{
+    
 }
 
 #header {
@@ -16,3 +21,19 @@
     padding: 20px;
     font-size: larger;
 }
+main{
+    background-color: rgb(194, 185, 185);
+    height: 600px;
+}
+.list{
+    background-color: white;
+    
+    
+}
+.flex-container-3{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+    
