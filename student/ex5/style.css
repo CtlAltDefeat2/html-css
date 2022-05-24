@@ -1,0 +1,53 @@
+#headliner{
+    padding-left: 1300px;
+    position: relative;
+   bottom: 70px;
+}
+#middle{
+    background-color: grey;
+    padding: 250px;
+}
+#section2 {
+    background-color: blue;
+    padding: 45px;
+    color: gray;
+}
+#llc {
+   
+    padding-left: 500px;
+    overflow: hidden;
+}
+#build{
+    padding-left: 400px;
+}
+.flexbox-container{
+    display: flex;
+    height: 500px;
+    width: 800px;
+    padding-top: 1px;
+    border-radius: 50px;
+}
+.flexbox-item{
+    flex: 1;
+    width: 100px; 
+    height: 150px;
+    margin: 10px;
+    padding: 50px;
+    border: radius 10px; 
+    background: white;
+}
+.flexbox-container2{
+    display: flex;
+    height: 500px;
+    width: 800px;
+    border-radius: 50px;
+}
+.flexbox-item2{
+    flex: 1;
+    width: 100px; 
+    height: 150px;
+    margin: 10px;
+    padding: 50px;
+    border: radius 10px; 
+    background: white;
+}

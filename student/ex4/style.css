@@ -1,3 +1,4 @@
+
 #section1 {
     background-color: gray;
     padding: 140px;
@@ -8,11 +9,14 @@
 #section2 {
     background-color: blue;
     padding: 45px;
+    color: gray;
+    
 }
 #headliner{
     padding-left: 1300px;
     position: relative;
    bottom: 50px;
+   
 }
 .flexbox-container{
     display: flex;
@@ -48,6 +52,7 @@
 #llc {
    
     padding-left: 500px;
+    overflow: hidden;
 }
 #build{
     padding-left: 400px;
