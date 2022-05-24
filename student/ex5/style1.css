@@ -13,7 +13,10 @@ header{
     justify-content: space-between;
 }
 li{
-    margin-left: 40px;
+    margin-left: 10px;
+}
+h6{
+    margin-left:-25px;
 }
 .content{
     background-color: lightgray;
@@ -26,11 +29,8 @@ ul{
     background-color: white;
     display: flex;
     justify-content: center;
-    padding-bottom: 5px;
-    margin-top: 10px;
-    margin-bottom: 5px;
-    margin-left: 10px;
-    margin-right: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
 }
 footer{
     padding-top: 5px;
