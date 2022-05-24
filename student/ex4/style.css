@@ -11,9 +11,6 @@
     align-items: center;
 }
 
-.breakline{
-    color: black;
-}
 
 body {
     background-color: darkgray;
@@ -69,3 +66,4 @@ body {
     display: flex;
     justify-content: center;
 }
+

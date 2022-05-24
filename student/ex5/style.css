@@ -1,0 +1,61 @@
+* { 
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section{
+    background-color: orange;
+    border-top: 1px solid black;
+    padding-top: 10px;
+}
+
+.section2{
+    background-color: greenyellow;
+    border-top: 1px solid black;
+    padding-top: 10px;
+}
+
+.section3{
+    background-color: rgb(238, 102, 174);
+    padding-top: 10px;
+    border-top: 1px solid black;
+}
+
+body{
+    background-color: lightgray;
+}
+
+.item {
+    background-color: white;
+}
+
+.bird{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+footer{
+    display: flex;
+     background-color: #0072e1;
+     justify-content: space-between;
+     color: darkgrey;
+     padding-bottom: 400px;
+     padding-top: 5px;
+     border-top: 1px solid black;
+     
+ }
+
+ .wildlife{
+     display: flex;
+     justify-content: center;
+     background-color: white;
+ }
