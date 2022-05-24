@@ -12,15 +12,17 @@ body{
 
 .navbar{
     background-color: white;
+    border-color: black;
+    
     .flex-container {
         display: flex;
         justify-content: space-between;
         align-items: center;
         
-
         #flex-container{
             display: flex;
             margin-right: 20px;
+            text-decoration: none;
         }
 
     }
@@ -37,18 +39,16 @@ body{
     
     
     .where{
-        margin: auto;
-        
+        margin: auto;  
         background-color: white;
         border-radius: 10px;
-        
+        border-color: black;
         width: 500px;
         
 
         p{
             font-weight: bold;
-            padding: 20px;
-            //padding: 20px 1px 20px 1px;
+            padding: 30px;
         }
     }
 }

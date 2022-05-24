@@ -9,6 +9,7 @@ body {
 
 .navbar {
   background-color: white;
+  border-color: black;
 }
 
 .navbar .flex-container {
@@ -28,6 +29,7 @@ body {
   display: -ms-flexbox;
   display: flex;
   margin-right: 20px;
+  text-decoration: none;
 }
 
 .middle-section {
@@ -42,11 +44,13 @@ body {
   margin: auto;
   background-color: white;
   border-radius: 10px;
+  border-color: black;
   width: 500px;
 }
 
 .middle-section .where p {
   font-weight: bold;
+  padding: 30px;
 }
 
 .bottom-section .flex-container {
