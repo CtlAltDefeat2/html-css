@@ -1,0 +1,50 @@
+#layout{
+    display: grid;
+   grid-row: auto;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.links{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 2px;
+    justify-content: space-between;
+}
+li{
+    margin-left: 40px;
+}
+header{
+    border-bottom: 2px;
+    border-color: black;
+}
+.content{
+    display: flex;
+    background-color: lightgray;
+    padding: 20px;
+}
+ul{
+    padding-top: 10px;
+    background-color: white;
+}
+.bird{
+    background-color: white;
+    position: relative;
+    align-self: center;
+    justify-self: center;
+    text-align: center;
+}
+footer {
+    padding-top: 10px;
+    color: lightgray;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: #0072e1;
+    height: 500px;
+}
+
+
+    

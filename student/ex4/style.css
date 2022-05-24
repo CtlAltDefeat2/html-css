@@ -1,43 +1,50 @@
-*{
+* {
     font-family: Arial, Helvetica, sans-serif;
 }
+
 .flex-container {
     display: flex;
     height: 300px;
     justify-content: center;
     align-items: center;
     background-color: lightgray;
-    
+
 }
-div{
-      padding: 100px;
+
+div {
+    padding: 100px;
 }
-div div{
-      padding: 50px;
-      background-color: white;
-      color: black;
-      border: solid;
-      border-radius: 10px;
-      border-color: gray;
-      border-width: 1px;
-      
+
+div div {
+    padding: 50px;
+    background-color: white;
+    color: black;
+    border: solid;
+    border-radius: 10px;
+    border-color: gray;
+    border-width: 1px;
+
 }
-header{
+
+header {
     background-color: white;
     color: black;
     border-bottom: solid;
     border-color: black;
     border-width: 2px;
 }
-h4{
+
+h4 {
     text-align: center;
-    
+
 }
-img{
+
+img {
     width: 100px;
     height: 100px;
 }
-footer{
+
+footer {
     background-color: #0072e1;
     padding-top: 10px;
     padding-left: 10px;
@@ -47,7 +54,7 @@ footer{
     text-align: center;
 }
 
-a{
+a {
     overflow: hidden;
     float: right;
     padding-top: 40px;
