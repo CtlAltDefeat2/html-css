@@ -17,15 +17,11 @@ padding: 20px;
     align-items: center;
 }
 
-.logo{
-    flex: 0%;
-    font-size: 0;
-}
-
 .logo img:nth-child(.navbar){
     display: flex;
     justify-content: center;
     align-items: center;
+    flex: 0;
     padding: 20px;
 }
 
