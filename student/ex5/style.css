@@ -1,3 +1,7 @@
+/* body {
+    display: flex;
+    justify-content: center;
+} */
 .navbar {
     background-color: white;
     border-bottom: 2px solid black;
@@ -14,7 +18,7 @@
     display: flex;
     justify-content: center;
     background-color: lightgray;
-    padding: 200px;
+    padding: 20px;
 
 }
 
@@ -23,7 +27,7 @@
     flex-direction: column;
     background-color: white;
     padding: 15px;
-    border-radius: 15px;
+    /* border-radius: 15px; */
     text-align: center;
     font-size: large;
 }
@@ -35,8 +39,13 @@
     padding-top: 10px;
     padding-bottom: 50px;
     color: lightgrey;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .bird {
     background-color: lightgray;  
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
 }
