@@ -1,0 +1,42 @@
+.navbar {
+    background-color: white;
+    border-bottom: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    display: flex;
+    width: 200px;
+}
+
+.section1 {
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+    padding: 200px;
+
+}
+
+.words {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: large;
+}
+
+.section2 {
+    display: flex;
+    justify-content:space-between;
+    background-color: rgb(51, 51, 249);
+    padding-top: 10px;
+    padding-bottom: 50px;
+    color: lightgrey;
+}
+
+.bird {
+    background-color: lightgray;  
+}
