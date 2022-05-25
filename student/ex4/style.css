@@ -41,8 +41,10 @@ main {
   color: lightblue;
   padding: 10px;
 }
-/*@media(max-width: 4000px) {
-    .main .container {
-        flex-direction: row;
-        padding-top: 20px;
-        text-align: center;*/
+@media (max-width: 4000px) {
+  .main .container {
+    flex-direction: row;
+    padding-top: 20px;
+    text-align: center;
+  }
+}
